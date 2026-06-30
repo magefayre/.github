@@ -3436,12 +3436,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cronstrue@npm:3.20.0":
-  version: 3.20.0
-  resolution: "cronstrue@npm:3.20.0"
+"cronstrue@npm:3.21.0":
+  version: 3.21.0
+  resolution: "cronstrue@npm:3.21.0"
   bin:
     cronstrue: bin/cli.js
-  checksum: 10c0/0ba16bd4f416aedef6f1477cceb0137f2408dfce041386fe189c76b9454ae213542f8a29d657a73039ee77d83ce120511994bd77cf09e691a9edc8c055351122
+  checksum: 10c0/6896a5685a841436ab057fe7e8ea545341db77f414b286f032a4b4d26c87320a65da5cc774d5b7ef132ff25a6eae8779c56ecc48cfd6d5da8ef9a14483adfd76
   languageName: node
   linkType: hard
 
@@ -7451,12 +7451,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"protobufjs@npm:8.6.4":
-  version: 8.6.4
-  resolution: "protobufjs@npm:8.6.4"
+"protobufjs@npm:8.6.5":
+  version: 8.6.5
+  resolution: "protobufjs@npm:8.6.5"
   dependencies:
     long: "npm:^5.3.2"
-  checksum: 10c0/fafe74f62961d0cd17106002b183989079731baf0db2dd622ec43f600d36a1864849ef88c62d9c7a385a7b7cf2ed3a6e6d7d35652473e8255a3df11acd2c3d3d
+  checksum: 10c0/ccf3d07c567c1b1be9114165093bba658dac252bd9c99c5705d4a0e2e207c772f9996bb3826c27a6cc1c67943767ecdfbf5525bb4f83fecfd186d6dbd300147e
   languageName: node
   linkType: hard
 
@@ -7636,9 +7636,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:43.246.1":
-  version: 43.246.1
-  resolution: "renovate@npm:43.246.1"
+"renovate@npm:43.249.3":
+  version: 43.249.3
+  resolution: "renovate@npm:43.249.3"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1053.0"
     "@aws-sdk/client-ec2": "npm:3.1053.0"
@@ -7689,7 +7689,7 @@ __metadata:
     clean-git-ref: "npm:2.0.1"
     commander: "npm:14.0.3"
     croner: "npm:10.0.1"
-    cronstrue: "npm:3.20.0"
+    cronstrue: "npm:3.21.0"
     deepmerge: "npm:4.3.1"
     dequal: "npm:2.0.3"
     detect-indent: "npm:7.0.2"
@@ -7735,7 +7735,7 @@ __metadata:
     p-throttle: "npm:8.1.0"
     parse-link-header: "npm:2.0.0"
     prettier: "npm:3.8.1"
-    protobufjs: "npm:8.6.4"
+    protobufjs: "npm:8.6.5"
     punycode: "npm:2.3.1"
     re2: "npm:1.25.0"
     remark: "npm:15.0.1"
@@ -7767,7 +7767,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/7f31acc9ce6ada7ff699774ba2c012add48ad304b3652aff1c6d8250fdebd31eaba0a9c7b2fe2c49b470a17680d88b10e123cd5d522fa6775926d329d494a407
+  checksum: 10c0/0e1805b5e0e7104f6fa7f8e5a3a07795f43b40351f8036e86bee6e9d823c3530b1105fc381696a8958e17b096156f6819a0842f06cfa4a8197217e186afcf362
   languageName: node
   linkType: hard
 
@@ -7935,7 +7935,7 @@ __metadata:
     husky: "npm:9.1.7"
     lint-staged: "npm:17.0.8"
     prettier: "npm:3.9.4"
-    renovate: "npm:43.246.1"
+    renovate: "npm:43.249.3"
   languageName: unknown
   linkType: soft
 
