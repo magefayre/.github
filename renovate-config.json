@@ -20,6 +20,19 @@
         "bump"
       ],
       "platformAutomerge": true
+    },
+    {
+      "description": "Group New High Score packages together",
+      "groupName": "newhighsco packages",
+      "groupSlug": "newhighsco",
+      "matchPackageNames": ["/^@newhighsco/"]
+    },
+    {
+      "description": "Group Next.js packages and plugins together",
+      "extends": ["monorepo:nextjs"],
+      "groupName": "nextjs packages",
+      "groupSlug": "nextjs",
+      "matchPackageNames": ["/^next/"]
     }
   ],
   "postUpdateOptions": ["yarnDedupeHighest"],
