@@ -3378,12 +3378,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cronstrue@npm:3.21.0":
-  version: 3.21.0
-  resolution: "cronstrue@npm:3.21.0"
+"cronstrue@npm:3.23.0":
+  version: 3.23.0
+  resolution: "cronstrue@npm:3.23.0"
   bin:
     cronstrue: bin/cli.js
-  checksum: 10c0/6896a5685a841436ab057fe7e8ea545341db77f414b286f032a4b4d26c87320a65da5cc774d5b7ef132ff25a6eae8779c56ecc48cfd6d5da8ef9a14483adfd76
+  checksum: 10c0/5e8d86743ebee6052a885b5bd62393fa2673880fe1a79a370bc20a1f323290a007a7e097707d6c59f1a08d03d565abeb75ca9a9b2d33cef129832cf8bf9740f8
   languageName: node
   linkType: hard
 
@@ -7602,9 +7602,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:43.252.4":
-  version: 43.252.4
-  resolution: "renovate@npm:43.252.4"
+"renovate@npm:43.252.5":
+  version: 43.252.5
+  resolution: "renovate@npm:43.252.5"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1075.0"
     "@aws-sdk/client-ec2": "npm:3.1075.0"
@@ -7655,7 +7655,7 @@ __metadata:
     clean-git-ref: "npm:2.0.1"
     commander: "npm:14.0.3"
     croner: "npm:10.0.1"
-    cronstrue: "npm:3.21.0"
+    cronstrue: "npm:3.23.0"
     deepmerge: "npm:4.3.1"
     dequal: "npm:2.0.3"
     detect-indent: "npm:7.0.2"
@@ -7733,7 +7733,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/7597d19590c0e31f06d7a1bdd50dd6e2b91f46736595fc8f31a335988a104feea59863c30fc8645c090e7e32ebab89509e5842c8b8842de4953ca73338152283
+  checksum: 10c0/9e4ff2011e0509f53ead79209c3a92ba6c04560948d4eb0298ae358899196e7db508fe154e780001cd4f966aa3024a1efd3f4cb4d5e9218a5ef4d63dcc9b0cc6
   languageName: node
   linkType: hard
 
@@ -7901,7 +7901,7 @@ __metadata:
     husky: "npm:9.1.7"
     lint-staged: "npm:17.0.8"
     prettier: "npm:3.9.4"
-    renovate: "npm:43.252.4"
+    renovate: "npm:43.252.5"
   languageName: unknown
   linkType: soft
 
