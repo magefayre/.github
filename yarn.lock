@@ -5155,10 +5155,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ignore@npm:7.0.5, ignore@npm:^7.0.5":
-  version: 7.0.5
-  resolution: "ignore@npm:7.0.5"
-  checksum: 10c0/ae00db89fe873064a093b8999fe4cc284b13ef2a178636211842cceb650b9c3e390d3339191acb145d81ed5379d2074840cf0c33a20bdbd6f32821f79eb4ad5d
+"ignore@npm:7.0.6, ignore@npm:^7.0.5":
+  version: 7.0.6
+  resolution: "ignore@npm:7.0.6"
+  checksum: 10c0/fc01ef1d14efbe003439b60538726351e81483d1b6f55bdbb3a4465c6346d9481afad5b350dfbd604ddd7049618ef9093ff26dc147984aabc303c56ba53ea3b5
   languageName: node
   linkType: hard
 
@@ -7552,9 +7552,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:43.265.4":
-  version: 43.265.4
-  resolution: "renovate@npm:43.265.4"
+"renovate@npm:43.268.2":
+  version: 43.268.2
+  resolution: "renovate@npm:43.268.2"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1075.0"
     "@aws-sdk/client-ec2": "npm:3.1075.0"
@@ -7627,7 +7627,7 @@ __metadata:
     got: "npm:14.6.6"
     graph-data-structure: "npm:4.5.0"
     handlebars: "npm:4.7.9"
-    ignore: "npm:7.0.5"
+    ignore: "npm:7.0.6"
     ini: "npm:6.0.0"
     json-dup-key-validator: "npm:1.0.3"
     json-stringify-pretty-compact: "npm:4.0.0"
@@ -7683,7 +7683,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/2bd87fd87e133237d8a27eb1f22b536a35eaec78045667c775bf126d92debeca9721d05742e6f66adade259bd66fd3a3e84d0f1deeb6a83c15ffc34c07cf7d00
+  checksum: 10c0/a1efc931cb972f699406b0e7c358b5e375d6f36599619b30ffc4249332816299bb1bf43b5e441cac4a4b5f8bdc671e1e3ba867516bcab5a1c7c38262b27f2ffd
   languageName: node
   linkType: hard
 
@@ -7851,7 +7851,7 @@ __metadata:
     husky: "npm:9.1.7"
     lint-staged: "npm:17.0.8"
     prettier: "npm:3.9.5"
-    renovate: "npm:43.265.4"
+    renovate: "npm:43.268.2"
   languageName: unknown
   linkType: soft
 
