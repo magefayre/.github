@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "local>newhighsco/.github:renovate-config#v1.0.0",
+    "local>newhighsco/.github:renovate-config",
     ":assignAndReview(team:reviewers)"
   ]
 }
