@@ -5933,9 +5933,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdown-it@npm:14.3.0":
-  version: 14.3.0
-  resolution: "markdown-it@npm:14.3.0"
+"markdown-it@npm:14.3.1":
+  version: 14.3.1
+  resolution: "markdown-it@npm:14.3.1"
   dependencies:
     argparse: "npm:^2.0.1"
     entities: "npm:^4.5.0"
@@ -5945,7 +5945,7 @@ __metadata:
     uc.micro: "npm:^2.1.0"
   bin:
     markdown-it: bin/markdown-it.mjs
-  checksum: 10c0/b2dea908968109d6e9088ac972254bca842157d85d2e6838d0eb263cd8106e7e6a72663b138366cc98f57441d9f3f2ebfb842bf7b2f9e1c13187ebe70e0af8f9
+  checksum: 10c0/806f0f5f29f1ddd9fd465f905c1f2c54d64af9023095792dd5364e5807f77454f427ee75d66083b432d0900e21836f0fff940f94f5fc93c41b2f78970469874e
   languageName: node
   linkType: hard
 
@@ -7472,9 +7472,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:44.61.1":
-  version: 44.61.1
-  resolution: "renovate@npm:44.61.1"
+"renovate@npm:44.61.5":
+  version: 44.61.5
+  resolution: "renovate@npm:44.61.5"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1117.0"
     "@aws-sdk/client-ec2": "npm:3.1117.0"
@@ -7560,7 +7560,7 @@ __metadata:
     klona: "npm:2.0.6"
     lru-cache: "npm:11.5.2"
     luxon: "npm:3.7.2"
-    markdown-it: "npm:14.3.0"
+    markdown-it: "npm:14.3.1"
     markdown-table: "npm:3.0.4"
     minimatch: "npm:10.2.6"
     moo: "npm:0.5.3"
@@ -7607,7 +7607,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/899eafe06b1ff49745e961ad9cb0376939fdc773df940b45463208ad073fa717e9af048fe09debeb9eeee11402b2559d685f2b12ff57eca99139be164fb5f966
+  checksum: 10c0/41a6256feb0aa3a8accd485f31905279cd04875a9480780f12bc6ae97140b7228e80953eda9374f95a82febd3e550ddad4d4d3a04550ba8a866c82f5cbc69656
   languageName: node
   linkType: hard
 
@@ -7765,7 +7765,7 @@ __metadata:
     husky: "npm:9.1.7"
     lint-staged: "npm:17.4.1"
     prettier: "npm:3.9.6"
-    renovate: "npm:44.61.1"
+    renovate: "npm:44.61.5"
   languageName: unknown
   linkType: soft
 
