@@ -5210,10 +5210,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ignore@npm:7.0.9":
-  version: 7.0.9
-  resolution: "ignore@npm:7.0.9"
-  checksum: 10c0/fec02e67b8c01a873d3b60eff6cce5e390365d7c45fea57f60f4ff52b9be5873c366867a3b8e154a3140330b72b41b94f19e1f28adfe0ef558c6b28bbf02a1b4
+"ignore@npm:7.0.10, ignore@npm:^7.0.5":
+  version: 7.0.10
+  resolution: "ignore@npm:7.0.10"
+  checksum: 10c0/d3f68f0f89412996795850198ef2465bbf4222de4734273e8f100cbabae79fe5ae3643d6d3bbf43e7ec10e8d5b65be22df0e5084114d375611220b8b8d3d254a
   languageName: node
   linkType: hard
 
@@ -5221,13 +5221,6 @@ __metadata:
   version: 5.3.2
   resolution: "ignore@npm:5.3.2"
   checksum: 10c0/f9f652c957983634ded1e7f02da3b559a0d4cc210fca3792cb67f1b153623c9c42efdc1c4121af171e295444459fc4a9201101fb041b1104a3c000bccb188337
-  languageName: node
-  linkType: hard
-
-"ignore@npm:^7.0.5":
-  version: 7.0.10
-  resolution: "ignore@npm:7.0.10"
-  checksum: 10c0/d3f68f0f89412996795850198ef2465bbf4222de4734273e8f100cbabae79fe5ae3643d6d3bbf43e7ec10e8d5b65be22df0e5084114d375611220b8b8d3d254a
   languageName: node
   linkType: hard
 
@@ -7586,9 +7579,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:44.118.1":
-  version: 44.118.1
-  resolution: "renovate@npm:44.118.1"
+"renovate@npm:44.121.0":
+  version: 44.121.0
+  resolution: "renovate@npm:44.121.0"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1117.0"
     "@aws-sdk/client-ec2": "npm:3.1117.0"
@@ -7665,7 +7658,7 @@ __metadata:
     got: "npm:16.0.0"
     graph-data-structure: "npm:4.5.0"
     handlebars: "npm:4.7.9"
-    ignore: "npm:7.0.9"
+    ignore: "npm:7.0.10"
     ini: "npm:6.0.0"
     json-dup-key-validator: "npm:1.0.3"
     json-stringify-pretty-compact: "npm:4.0.0"
@@ -7723,7 +7716,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/26efbce328711b1e937d7dfb3eae4367f660f3053adb2adc230ff5821bd4cb73f3af7e0a98194b16e3dfb12c95a75decba0de0f92093e6ec2ad9a194ab5cceae
+  checksum: 10c0/dc056e3db732f58a913c463ee7d45047d2f4c2ef03c2c0cf881789a47d917c2e5c44eab2ca4b621cc3001b120be5907e436f086d72cf8576fec4b7cce0b7e679
   languageName: node
   linkType: hard
 
@@ -7881,7 +7874,7 @@ __metadata:
     husky: "npm:9.1.7"
     lint-staged: "npm:17.6.0"
     prettier: "npm:3.9.9"
-    renovate: "npm:44.118.1"
+    renovate: "npm:44.121.0"
   languageName: unknown
   linkType: soft
 
